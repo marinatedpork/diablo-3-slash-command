@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/marinatedpork/diablo-3-slash-command/issues"
   },
-  "homepage": "https://github.com/marinatedpork/diablo-3-slash-command#readme"
+  "homepage": "https://github.com/marinatedpork/diablo-3-slash-command#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.6.0",
+    "pryjs": "^1.0.3",
+    "request": "^2.83.0",
+    "sort-by": "^1.2.0"
+  }
 }
