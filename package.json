@@ -1,0 +1,19 @@
+{
+  "name": "diablo",
+  "version": "1.0.0",
+  "description": "For a diablo 3 Slack slash command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marinatedpork/diablo-3-slash-command.git"
+  },
+  "author": "Matthew Meyers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinatedpork/diablo-3-slash-command/issues"
+  },
+  "homepage": "https://github.com/marinatedpork/diablo-3-slash-command#readme"
+}
