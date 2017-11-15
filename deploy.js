@@ -18,4 +18,4 @@ function callback(err, data) {
   console.log(err ? ['Error', err, err.stack] : ['Success', data]);
 }
 
-new lambda(config).updateFunctionCode(params, callback);
+new Lambda(config).updateFunctionCode(params, callback);
