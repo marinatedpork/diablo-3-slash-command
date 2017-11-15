@@ -60,3 +60,4 @@ typings/
 deploy/config/*
 deploy/.terraform/*
 config/*
+module.zip
