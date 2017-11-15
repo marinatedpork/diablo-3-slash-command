@@ -19,6 +19,7 @@
   "dependencies": {},
   "devDependencies": {
     "async": "^2.6.0",
+    "aws-sdk": "^2.150.0",
     "pryjs": "^1.0.3",
     "request": "^2.83.0",
     "sort-by": "^1.2.0"
